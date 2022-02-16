@@ -1,5 +1,5 @@
 baseURL: https://northsea.rocks/
 languageCode: en-us
 title: Northsea rocks
-theme: "github.com/theNewDynamic/gohugo-theme-ananke"
+theme: "ananke"
 
