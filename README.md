@@ -1,5 +1,5 @@
 #### Status
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/from-referrer/) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ertnerdev/northsea.rocks)
 
 # northsea.rocks ⛵
